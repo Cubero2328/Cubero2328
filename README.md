@@ -1,32 +1,40 @@
-<h1 align="center">¡Hola! 👋 Soy Pablo Cubero</h1>
+# 👋 ¡Hola! Soy Pablo Cubero
 
-<p align="center">
-  🚀 Desarrollador Web  
-</p>
+📍 Argentina 🇦🇷  
 
----
+💻 Desarrollador en formación apasionado por la programación y el desarrollo web.
 
-## 🌱 Sobre mí
-- 📍 Soy de Argentina 🇦🇷  
-- 📚 Actualmente aprendiendo **Java orientado a objetos (POO)**  
-- 💡 También sigo mejorando mis habilidades en **JavaScript** y **MySQL**  
-- ❤️ Me gusta crear interfaces simples, limpias y funcionales  
+📚 Actualmente aprendiendo **Java Orientado a Objetos (POO)**  
+🚀 También continúo mejorando mis habilidades en **JavaScript**, **MySQL** y desarrollo frontend.
+
+✨ Me gusta crear interfaces simples, limpias y funcionales, enfocadas en la buena experiencia del usuario.
 
 ---
 
 ## 🛠️ Tecnologías que utilizo
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **MySQL**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Actualmente
+
+- 🚀 Subiendo proyectos a GitHub
+- 📚 Practicando lógica y programación orientada a objetos
+- 💡 Mejorando mis conocimientos de backend y bases de datos
 
 ---
 
 ## 🌐 Contacto
-- 📧 **cubero2328@gmail.com**  
-- 🔗 **LinkedIn:** [Pablo Cubero](https://ar.linkedin.com/in/pablo-cubero-059a47254?trk=people-guest_people_search-card)
+
+📧 Email: **cubero2328@gmail.com**  
+
+💼 LinkedIn: **Pablo Cubero**
 
 ---
 
-<h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
+✨ ¡Gracias por visitar mi perfil! ✨
+```
 
